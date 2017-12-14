@@ -1,4 +1,4 @@
 # Griffin Title
 
 Griffin text
-![A Griffon](./Griffin Image 2.jpg "Logo Title Text 1")
+<img src="./Griffin%20Image%202.jpg" alt="A Griffin">
