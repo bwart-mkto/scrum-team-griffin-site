@@ -11,4 +11,7 @@ The animal typically gets food by lording within its opulent lair or nest, await
 # Family Life
 Griffins start life in a small pride composed of their immediate family. As the griffins age, they will eventually leave this pride, taking on a largely solitary life. Eventually, two griffins will come together, and they will form a lifelong bond. These two griffins will mate and start a new pride with their offspring.
 
+# Communication
+Griffins are highly intelligent and are capable of complex vocal and physical communication between themselves, though the meaning of this communication is not yet understood. They are also capable of understanding human speech, though they can not reproduce it themselves.
+
 [Back to Home](index.md)
