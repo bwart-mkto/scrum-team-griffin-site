@@ -7,11 +7,11 @@
 [Habitat](habitat.md) |
 [Mating and Reproduction](matingreproduction.md)
 
-<a href="Griffin_image_1.md"><img alt="A Pride of Griffins" src="Griffin image 1.jpg" height="96" width="96" /></a>
-<a href="Griffin_image_2.md"><img alt="A Perfect Griffin" src="Griffin image 2.jpg" height="96" width="96" /></a>
-<a href="Griffin_image_3.md"><img alt="A Confident Griffin" src="Griffin image 3.jpg" height="96" width="96" /></a>
-<a href="Griffin_image_4.md"><img alt="A Sad Griffin" src="Griffin image 4.jpg" height="96" width="96" /></a>
-<a href="Griffin_image_5.md"><img alt="A Giffin Serpentinis" src="Griffin image 5.jpg" height="96" width="96" /></a>
+<a href="Griffin_image_1"><img alt="A Pride of Griffins" src="Griffin image 1.jpg" height="96" width="96" /></a>
+<a href="Griffin_image_2"><img alt="A Perfect Griffin" src="Griffin image 2.jpg" height="96" width="96" /></a>
+<a href="Griffin_image_3"><img alt="A Confident Griffin" src="Griffin image 3.jpg" height="96" width="96" /></a>
+<a href="Griffin_image_4"><img alt="A Sad Griffin" src="Griffin image 4.jpg" height="96" width="96" /></a>
+<a href="Griffin_image_5"><img alt="A Giffin Serpentinis" src="Griffin image 5.jpg" height="96" width="96" /></a>
 
 # Submit your Favorite Griffin Photos
 
