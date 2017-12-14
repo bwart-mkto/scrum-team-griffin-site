@@ -4,7 +4,8 @@
 [Behavior](behavior.md) |
 [Biology](biology.md) |
 [Habitat](habitat.md) |
-[Mating and Reproduction](matingreproduction.md)
+[Mating and Reproduction](matingreproduction.md) | 
+[interesting Facts](habitat.md)
 
 Weighing in at around 500 pouds, Griffins survive on a diet consisting of a small party (3-5) of Adventurers. The Adventurers may come from various races ranging from fey sprites to hulking ogres. By and large, though, their prey are typically huminoid.
 
