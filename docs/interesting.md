@@ -12,4 +12,4 @@
 - Griffon eggs are worth 3,500 gp apiece on the open market, while young are worth 7,000 gp each.
 - The animal typically gets food by lording within its opulent lair or nest, awaiting bold and foolish adventurers to find it and challenge it to battle.
 
-# <img src="/docs/Griffin image 2.jpg" alt="Smiley face" height="300" width="300">
+<img alt="A Pride of Griffins" src="Griffin image 1.jpg" />
