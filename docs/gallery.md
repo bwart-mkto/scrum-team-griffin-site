@@ -1,11 +1,15 @@
 # Griffin Gallery
 
 [Home](index.md) |
-[Behavior](behavior.md) |
 [Biology](biology.md) |
 [Diet](diet.md) |
 [Habitat](habitat.md) |
-[Mating and Reproduction](matingreproduction.md)
+[Mating and Reproduction](matingreproduction.md) | 
+[Interesting Facts](interesting.md) |
+[Behavior](behavior.md) |
+[Pop Culture](popculture.md) |
+[Gallery](gallery.md) |
+[References](references.md)
 
 <a href="Griffin_image_1"><img alt="A Pride of Griffins" src="Griffin image 1.jpg" height="96" width="96" /></a>
 <a href="Griffin_image_2"><img alt="A Perfect Griffin" src="Griffin image 2.jpg" height="96" width="96" /></a>
