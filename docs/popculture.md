@@ -1,4 +1,4 @@
-# Appearance in popular culture.
+# Pop Culture
 [Home](index.md) |
 [Biology](biology.md) |
 [Diet](diet.md) |
