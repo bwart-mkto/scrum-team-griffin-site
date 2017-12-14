@@ -1,4 +1,4 @@
-# Griffin
+# All About Griffins
 
 [Behavior](behavior.md) |
 [Biology](biology.md) |
