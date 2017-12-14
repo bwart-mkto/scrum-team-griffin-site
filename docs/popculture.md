@@ -18,3 +18,5 @@ Many games set in a medieval or fantasy setting feature griffins, often in the r
 ![heraldic griffin](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/POL_wojew%C3%B3dztwo_zachodniopomorskie_COA.svg/176px-POL_wojew%C3%B3dztwo_zachodniopomorskie_COA.svg.png)
 
 A standard heraldic representation of a griffin.
+
+[Back to Home](index.md)
