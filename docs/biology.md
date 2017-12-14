@@ -15,6 +15,8 @@ A Griffin is a large animal, averaging 500 pounds in weight, with a body length 
 
 Griffins also possess exceptional eyesight, and are able to see well not only in low light conditions, but can even see in near total darkness for a distance of up to 60 feet.
 
+Griffins breathe through the nostrils in their beak. 
+
 # Lifecycle
 Griffins are hatched from eggs. Griffins are long lived, though due to their generally solitary and deadly nature, their average lifespan is not known.
 
