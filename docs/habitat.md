@@ -5,7 +5,8 @@
 [Behavior](behavior.md) |
 [Biology](biology.md) |
 [Diet](diet.md) |
-[Mating and Reproduction](matingreproduction.md)
+[Mating and Reproduction](matingreproduction.md) | 
+[interesting Facts](habitat.md)
 
 The natural range of the griffin is mainly temperate hills. They are comfortable both in areas of low vegetation, where their quick speed and flight can be used to their advantage, as well as in treed areas, where they can perch high away from potential danger. Griffins are also known to use the trees in their environment to hang prey for later consumption.
 
