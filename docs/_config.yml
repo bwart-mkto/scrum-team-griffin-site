@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+tipue_search:
+  include:
+    pages: true
