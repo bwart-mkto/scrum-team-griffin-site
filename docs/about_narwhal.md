@@ -1,5 +1,3 @@
-{% include navigation.md %}
-
 # About
 
 # Team Members:
