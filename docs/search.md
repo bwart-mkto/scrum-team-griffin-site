@@ -8,19 +8,7 @@ exclude_from_search: true
 ---
 
 # Search
-
-[Home](index.md) |
-[Biology](biology.md) |
-[Diet](diet.md) |
-[Habitat](habitat.md) |
-[Mating and Reproduction](matingreproduction.md) | 
-[Interesting Facts](interesting.md) |
-[Behavior](behavior.md) |
-[Pop Culture](popculture.md) |
-[Gallery](gallery.md) |
-[References](references.md) |
-[Search](search.md)
-
+{% include navigation.md %}
 
 <form action="{{ page.url | relative_url }}">
   <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
