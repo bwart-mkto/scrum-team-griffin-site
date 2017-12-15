@@ -10,5 +10,4 @@
 [Pop Culture](popculture) |
 [Gallery](gallery) |
 [References](references) |
-[Search](search) |
-[About](About)
+[Search](search)
