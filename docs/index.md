@@ -1,3 +1,4 @@
+Visit **The Scrum Zoo**
 # All About Griffins
 
 {% include navigation.md %}
