@@ -1,4 +1,5 @@
 # Griffin Title
+
 {% include navigation.md %}
 
 Griffin text

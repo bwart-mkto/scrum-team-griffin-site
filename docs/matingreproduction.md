@@ -1,4 +1,5 @@
 # Mating and Reproduction
+
 {% include navigation.md %}
 
 Griffons lay eggs! Griffon eggs are worth 3,500 gp apiece on the open market, while young are worth 7,000 gp each. This high value means that griffins need to be vigilant to protect their young, and they often nest in remote areas to help achieve this.

@@ -1,4 +1,5 @@
 # A Perfect Griffin
+
 {% include navigation.md %}
 
 A perfect rendition of a griffin.
