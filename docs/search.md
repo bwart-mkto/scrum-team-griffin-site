@@ -25,4 +25,4 @@ $(document).ready(function() {
 });
 </script>
 
-{% include navigation.md %}
+{% include footer.md %}
