@@ -1,5 +1,3 @@
-{% include navigation.md %}
-
 # About
 
 # Team Members:
@@ -7,6 +5,8 @@
 - Nicholas Lawrence    <img alt="nlawrence@mkto.com" src="email.png" height="20" width="20"/> <img alt="" src="face.jpeg" height="20" width="20" /> <img alt="" src="Twitter-icon.png" height="20" width="20" />
 - Lily Moch          <img alt="lmoch@mkto.com" src="email.png" height="20" width="20"/> <img alt="" src="face.jpeg" height="20" width="20" /> <img alt="" src="Twitter-icon.png" height="20" width="20" />
 - Mitch Small   <img alt="msmall@mkto.com" src="email.png" height="20" width="20"/> <img alt="" src="face.jpeg" height="20" width="20" /> <img alt="" src="Twitter-icon.png" height="20" width="20" />
+- Brian Kim   <img alt="bkim@mkto.com" src="email.png" height="20" width="20"/> <img alt="" src="face.jpeg" height="20" width="20" /> <img alt="" src="Twitter-icon.png" height="20" width="20" />
+
 
 # Scrum Process Used
 [https://scrum.org](scrum.org)
