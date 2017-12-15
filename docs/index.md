@@ -1,3 +1,8 @@
+---
+title: Jimmy's Zoo
+description: Griffen Home
+---
+
 Learn about more fun animals at [**Jimmy's Zoo**](https://bwart-mkto.github.io/scrum_zoo/index)
 
 {% include navigation.md %}
