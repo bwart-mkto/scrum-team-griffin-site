@@ -4,9 +4,9 @@
 
 # Team Members:
 
+- Kathy Martin    <img alt="kmartin@mkto.com" src="email.png" height="20" width="20"/> <img alt="" src="face.jpeg" height="20" width="20" /> <img alt="" src="Twitter-icon.png" height="20" width="20" />
 - Russ Dubrock          <img alt="rdubrock@mkto.com" src="email.png" height="20" width="20"/> <img alt="" src="face.jpeg" height="20" width="20" /> <img alt="" src="Twitter-icon.png" height="20" width="20" />
 - Vijay Dhakshinamoorthy   <img alt="vdhak@mkto.com" src="email.png" height="20" width="20"/> <img alt="" src="face.jpeg" height="20" width="20" /> <img alt="" src="Twitter-icon.png" height="20" width="20" />
-- Kathy Martin    <img alt="kmartin@mkto.com" src="email.png" height="20" width="20"/> <img alt="" src="face.jpeg" height="20" width="20" /> <img alt="" src="Twitter-icon.png" height="20" width="20" />
 - Rishi Malani        <img alt="rmalani@mkto.com" src="email.png" height="20" width="20"/> <img alt="" src="face.jpeg" height="20" width="20" /> <img alt="" src="Twitter-icon.png" height="20" width="20" />
 
 # Scrum Process Used
