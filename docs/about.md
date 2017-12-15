@@ -4,11 +4,12 @@
 
 # Team Members:
 - Ben Wart 
-   takhateeb@marketo.com
+   
 - Kristi Bielewicz
 - Michael Fenwick
 - Scott Fabini
 - Tahseen Al-Khateeb
+   Email: takhateeb@marketo.com,  
 
 {% include footer.md %}
 [Back to Home](index.md)
