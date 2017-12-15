@@ -1,6 +1,6 @@
-# About
-
 {% include navigation.md %}
+
+# About
 
 # Team Members:
 - Ben Wart 
@@ -10,5 +10,5 @@
 - Scott Fabini
 - Tahseen Al-Khateeb
 
-
+{% include footer.md %}
 [Back to Home](index.md)
