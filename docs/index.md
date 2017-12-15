@@ -1,4 +1,4 @@
-Learn about more fun animals at [**The Scrum Zoo**](The Scrum Zoo)
+Learn about more fun animals at [**The Scrum Zoo**](https://bwart-mkto.github.io/scrum_zoo/index)
 # All About Griffins
 
 {% include navigation.md %}
