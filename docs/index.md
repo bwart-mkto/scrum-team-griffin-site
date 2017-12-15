@@ -1,6 +1,6 @@
 # All About Griffins
 
-{% include_relative navigation.md %}
+{% include navigation.md %}
 
 <img alt="A Pride of Griffins" src="Griffin image 1.jpg" />
 
