@@ -12,4 +12,3 @@
    Email: takhateeb@marketo.com,  
 
 {% include footer.md %}
-[Back to Home](index.md)
