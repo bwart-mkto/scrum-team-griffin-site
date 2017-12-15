@@ -1,4 +1,5 @@
 # A Pride of Griffins
+{% include navigation.md %}
 
 A collection of griffins is known as a pride.
 
