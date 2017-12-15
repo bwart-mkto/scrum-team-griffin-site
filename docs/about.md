@@ -21,5 +21,3 @@ Scrum is a framework used to develop software. The scrum team consists of a prod
 Our team utilized scrum to generate the griffin-specific site, along with the aggregated zoo website.
 
 {% include footer.md %}
-
-[Back to Home](index.md)
