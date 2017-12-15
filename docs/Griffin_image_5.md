@@ -1,4 +1,5 @@
 # Griffin Serpentinis
+{% include navigation.md %}
 
 A griffin with a snake-like tail is known as griffin serpentinis.
 
