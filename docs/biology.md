@@ -17,4 +17,3 @@ Griffins are hatched from eggs. Griffins are long lived, though due to their gen
 The primary species of griffin is Griffin Griffinis. The griffin has two major subspecies, the Griffin Royalis, or Royal Griffin, which is distinguished by it's brillient silver head coloring, and Griffin Serpentinis, which is notable for its snakelike tail, in contrast to the lionesque tail of the main species.
 
 {% include footer.md %}
-[Back to Home](index.md)
