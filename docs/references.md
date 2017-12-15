@@ -1,5 +1,6 @@
-# References
 {% include navigation.md %}
+
+# References
 
 ## Images:
 - A pride of Griffins: http://creatures-of-past-present-and-mythology.wikia.com/wiki/Griffin
@@ -15,3 +16,5 @@
 - http://www.dandwiki.com/wiki/SRD:Griffon
 - https://en.wikipedia.org/wiki/Griffin
 - http://witcher.wikia.com/wiki/Griffin_(creature)#The_Witcher_3:_Wild_Hunt
+
+{% include footer.md %}
