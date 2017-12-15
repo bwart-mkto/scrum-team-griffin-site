@@ -5,8 +5,9 @@ tipue_search_active: true
 exclude_from_search: true
 ---
 
-# Search
 {% include navigation.md %}
+
+# Search
 
 <form action="{{ page.url | relative_url }}">
   <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
@@ -23,3 +24,5 @@ $(document).ready(function() {
   });
 });
 </script>
+
+{% include navigation.md %}
