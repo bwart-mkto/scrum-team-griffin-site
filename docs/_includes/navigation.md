@@ -1,3 +1,5 @@
+# All About Griffins
+
 [Home](index) |
 [Biology](biology) |
 [Diet](diet) |
