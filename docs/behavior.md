@@ -23,5 +23,3 @@ Griffins start life in a small pride composed of their immediate family. As the 
 Griffins are highly intelligent and are capable of complex vocal and physical communication between themselves, though the meaning of this communication is not yet understood. They are also capable of understanding human speech, though they can not reproduce it themselves.
 
 {% include footer.md %}
-
-[Back to Home](index.md)
