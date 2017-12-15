@@ -7,7 +7,7 @@
 [<img alt="A Confident Griffin" src="Griffin image 3.jpg" height="96" width="96" />](Griffin_image_3.md)
 [<img alt="A Sad Griffin" src="Griffin image 4.jpg" height="96" width="96" />](Griffin_image_4.md)
 [<img alt="A Giffin Serpentinis" src="Griffin image 5.jpg" height="96" width="96" />](Griffin_image_5.md)
-[<img alt="A Cute Griffin" src="Griffin Image 6.jpg" height="96" width="96" />](Griffin_image_6.md)
+[<img alt="A Cute Griffin" src="Griffin Image 6.png" height="96" width="96" />](Griffin_image_6.md)
 
 # Submit your Favorite Griffin Photos
 
