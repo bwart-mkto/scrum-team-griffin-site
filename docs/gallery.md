@@ -1,5 +1,6 @@
-# Griffin Gallery
 {% include navigation.md %}
+
+# Griffin Gallery
 
 [<img alt="A Pride of Griffins" src="Griffin image 1.jpg" height="96" width="96" />](Griffin_image_1.md)
 [<img alt="A Perfect Griffin" src="Griffin image 2.jpg" height="96" width="96" />](Griffin_image_2.md)
@@ -25,4 +26,4 @@ Or<br/><input type="hidden" role="uploadcare-uploader" name="griffen_image" /><b
     contactform.setAttribute('action', '//formspree.io/' + 'bwart' + '@' + 'marketo' + '.' + 'com');
 </script>
 
-[Back to Home](index.md)
+{% include footer.md %}
