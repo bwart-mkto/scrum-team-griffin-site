@@ -1,4 +1,4 @@
-Learn about more fun animals at [**The Scrum Zoo**](https://bwart-mkto.github.io/scrum_zoo/index)
+Learn about more fun animals at [**Jimmy's Zoo**](https://bwart-mkto.github.io/scrum_zoo/index)
 
 {% include navigation.md %}
 
