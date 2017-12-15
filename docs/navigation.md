@@ -1,4 +1,4 @@
-[Home](index.md) |
+[Home](index) |
 [Biology](biology.md) |
 [Diet](diet.md) |
 [Habitat](habitat.md) |
