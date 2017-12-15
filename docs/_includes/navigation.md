@@ -8,4 +8,5 @@
 [Pop Culture](popculture) |
 [Gallery](gallery) |
 [References](references) |
-[Search](search)
+[Search](search) |
+[About](About)
