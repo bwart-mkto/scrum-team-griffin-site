@@ -1,7 +1,7 @@
 [Home](index) |
 [Biology](biology) |
 [Diet](diet) |
-[Habitat](habita) |
+[Habitat](habitat) |
 [Mating and Reproduction](matingreproduction) | 
 [Interesting Facts](interesting) |
 [Behavior](behavior) |
